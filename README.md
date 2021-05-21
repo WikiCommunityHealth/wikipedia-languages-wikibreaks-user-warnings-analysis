@@ -4,7 +4,7 @@ Some statistics about languages, wikibreaks and user warnings
 
 ## Data format
 
-The data used to generate the graphs notebooks are obtained from the [`Wikidump`](https://github.com/samuelebortolotti/wikidump) scripts.
+The data used to generate the charts notebooks are obtained from the [`Wikidump`](https://github.com/samuelebortolotti/wikidump) scripts.
 
 The data structure is fully documented in the `docs` folder of the repository.
 
@@ -26,7 +26,7 @@ For the sake of semplicity, in the data retrieved from the `Wikidump` scripts, t
 
 #### Notebooks content
 
-The notebooks (one for each language) contain the following graphs:
+The notebooks (one for each language) contain the following charts:
 
 * A line chart which represents the fifty languages with the highest number of occurrences.
 * A pie chart which represents the percentage of the languages with the highest number of occurrences.
@@ -50,7 +50,7 @@ Unfortunately the templates and their documentation change from language to lang
 
 #### Notebooks content
 
-The notebooks (one for each language) contain the following graphs:
+The notebooks (one for each language) contain the following charts:
 
 * A pie chart which represents the percentage of the users who currently are in wikibreak.
 * A pie chart which represents the percentage of the users who went in wikibreak, compared to the ones who have been active during their wikilife (at least 5 edits in a month)
@@ -73,7 +73,7 @@ There are several user warnings and each of them describe different scenario.
 
 #### Notebooks content
 
-The notebooks (one for each language) contain the following graphs:
+The notebooks (one for each language) contain the following charts:
 
 * A bar chart which shows the number of warnings registered, divided by category
 * A line chart which shows the user warnings received over the months
